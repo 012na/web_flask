@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "tw_url": "https://twitter.com/Nadianjum0",
+    "fb_url": "https://facebook.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "gmail-user":"emailID",
+    "gmail-password":"password",
+    "about_text": "I am Nadia and I am an Engineer, I would be glad if even a little from here helps you.",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user":"nadia",
+    "admin_password": "12345",
+    "upload_location": "C:\\Users\\habeeb\\PycharmProject\\flaskusage"
+  }
+
+}
